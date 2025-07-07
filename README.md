@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariopandapotansimarmata
-- Doing Backend, Cloud Computing, and Mobile (Flutter)
+- I'm doing Mobile (iOS & Flutter), Backend, Cloud Computing
 
 
 <!---
